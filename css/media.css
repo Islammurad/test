@@ -1,0 +1,265 @@
+@media screen and (max-width: 375px){
+	div#navbar-icon {
+		display: block;
+	}
+	.menu {
+		display: none;
+	}
+	.chats-names {
+	    width: 100%;
+	}
+	.chats-search {
+	  	display: flex;
+	  	font-size: 12px;
+	  	padding-top: 30px
+	}
+	input.search-input {
+	  	font-size: 10px;
+	}
+	.teams p {
+	  	font-size: 12px;
+	}
+	.managers-info {
+	    padding-left: 8px;
+	}
+	.background-image {
+	   	display: block;
+	}
+	.background {
+	    text-align: -webkit-center;
+	    display: block;
+	}
+	.jane-name p {
+	    font-size: 9px;
+	}
+	.designers {
+	    grid-template-columns: 48% 55% 0%;
+	}
+	.shane-icon {
+    	padding-top: 13px;
+    	display: block;
+	}
+	.designers-numb {
+	    margin-left: -26px;
+	    padding-top: 0px;
+	    margin-top: -17px;
+	}
+	.guide {
+	    width: 74px;
+	    height: 100px;
+	}
+	.guide-download {
+	    margin-top: 0px;
+	}
+	.guide p {
+	    font-size: 9px;
+	}
+	.download {
+		display: block;
+	}
+	.guide-span {
+		padding-top: 0px;
+	}
+	.guide-icon {
+    	margin-top: -17px;
+	}
+	.managers-info b {
+	  	font-size: 9px;
+	}
+	.managers-info p {
+	  	font-size: 8px;
+	}
+	.designers-info b {
+	  	font-size: 9px;
+	}
+	.designers-info p {
+	  	font-size: 8px;
+	}
+	.message {
+	    width: 60%;
+	}
+	.chats {
+	    width: 40%;
+	}
+	.brand-styles {
+	  	padding-bottom: 0px;
+	}
+	.massega-text {
+	  	padding-bottom: 0px;
+	  	padding-top: 19px;
+	}
+	.typing {
+	  	height: 30px;
+	  	margin-top: -7px;
+	}
+	.one-minutes {
+    	margin-top: 5px;
+	}
+	.jane-text {
+    	padding-left: 4px;
+	}
+	.telegramm-image {
+	  	padding: 0px 0px 0px 15px;
+	}
+	.telegramm-image img {
+	  	width: 70%;
+	}
+	.shane-btn-three button {
+	    font-size: 18px;
+	    padding-top: 23px;
+	}
+	.shane-text {
+		padding-bottom: 0px;
+	}
+	.minutes {
+	    padding-top: 10px;
+	}
+	.minutes p{
+		font-size: 10px;
+	}
+	.one-minutes p {
+	    padding-top: 3px;
+	    text-align: center;
+	    font-size: 10px;
+	}
+	.jane-text {
+	  	padding-bottom: 0px;
+	}
+	.jane-text p {
+	    width: 80px;
+	  	font-size: 8px;
+	}
+	.shane-text p {
+	    font-size: 8px;
+	}
+	.icons {
+	    font-size: 8px;
+	    padding: 0px 0px 0px 6px;
+	}
+}
+
+@media screen and (min-width: 375px) and (max-width: 568px) {
+	div#navbar-icon {
+		display: block;
+	}
+	.menu {
+		display: none;
+	}
+	.chats-names {
+	    width: 100%;
+	}
+	.chats-search {
+	  	display: flex;
+	  	font-size: 12px;
+	  	padding-top: 30px
+	}
+	input.search-input {
+	  	font-size: 12px;
+	}
+	.teams p {
+	  	font-size: 12px;
+	}
+	.managers-info {
+	    padding-left: 8px;
+	}
+
+	.background-image {
+	   	grid-column-gap: 0px; 
+	    grid-row-gap: 0em;
+	}
+	.background {
+	    text-align: -webkit-center;
+	    display: block;
+	}
+	.jane-name p {
+	    font-size: 12px;
+	}
+	.designers {
+	    grid-template-columns: 40% 60% 0%;
+	}
+	.designers-numb {
+	    margin-left: -26px;
+	    padding-top: 0px;
+	    margin-top: -17px;
+	}
+	.guide {
+	    width: 127px;
+	    height: 100px;
+	}
+	.guide-download {
+	    margin-top: 0px;
+	}
+	.guide p {
+	    font-size: 12px;
+	}
+	.managers-info b {
+	  	font-size: 12px;
+	}
+	.managers-info p {
+	  	font-size: 10px;
+	}
+	.designers-info b {
+	  	font-size: 12px;
+	}
+	.designers-info p {
+	  	font-size: 10px;
+	}
+	.message {
+	    width: 60%;
+	}
+	.chats {
+	    width: 40%;
+	}
+	.brand-styles {
+	  	padding-bottom: 0px;
+	}
+	.massega-text {
+	  	padding-bottom: 0px;
+	}
+	.typing {
+	  	height: 33px;
+	  	margin-top: -13px;
+	}
+	.telegramm-image {
+	  	padding: 0px 0px 0px 15px;
+	}
+	.telegramm-image img {
+	  	width: 62%;
+	}
+	.shane-btn-three button {
+	    font-size: 18px;
+	    padding-top: 23px;
+	}
+	.shane-text {
+		padding-bottom: 0px;
+	}
+	.minutes {
+	    padding-top: 26px;
+	}
+	.one-minutes p {
+	    padding-top: 20px;
+	    text-align: center;
+	}
+	.jane-text {
+	  	padding-bottom: 0px;
+	}
+	.jane-text p {
+	    width: 120px;
+	  	font-size: 10px;
+	}
+	.shane-text p {
+	    font-size: 10px;
+	}
+	.icons {
+	    font-size: 10px;
+	}
+}
+
+@media screen and (min-width: 568px) and (max-width: 1240px) {
+	div#navbar-icon {
+		display: none;
+	}
+	.massega-text {
+		padding-top: 10px;
+	}
+}
